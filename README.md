@@ -5,7 +5,7 @@ GitHubで作った初めてのWebサイトです！
 HTML、CSS、JavaScriptを使って、どんどん改良していきます。
 
 ## 🔗 サイトURL
-`https://itoksk-sanyo.github.io/www/`
+[https://itoksk.github.io/www](https://itoksk.github.io/www)
 
 ## 📁 ファイル構成
 - `index.html` - メインページ
@@ -23,8 +23,8 @@ HTML、CSS、JavaScriptを使って、どんどん改良していきます。
 - 2025/07/06 - README作成
 
 ## 👤 作者
-- 名前: [あなたの名前]
-- GitHub: [@[あなたのユーザー名]](https://github.com/[あなたのユーザー名])
+- 名前: [itoksk]
+- GitHub: [@itoksk](https://github.com/itoksk)
 
 ---
 ⭐ このプロジェクトが気に入ったら、スターをお願いします！
