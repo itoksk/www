@@ -23,7 +23,7 @@ HTML、CSS、JavaScriptを使って、どんどん改良していきます。
 - 2025/07/06 - README作成
 
 ## 👤 作者
-- 名前: [itoksk]
+- 名前: itoksk
 - GitHub: [@itoksk](https://github.com/itoksk)
 
 ---
